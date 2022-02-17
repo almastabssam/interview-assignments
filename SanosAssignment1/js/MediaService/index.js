@@ -57,11 +57,14 @@ const MediaService = {
    * @param identifier The Audio's unique identifier
    * @return {Promise<{durationSeconds: (*|number), url: string}|null>}
    */
-  async getMp3Metadata({ identifier }) {
+  async getMp3Metadata(identifier) {
+    console.log('identifier');
+    console.log(identifier);
     const url = `https://archive.org/metadata/${identifier}`;
     const result = await fetch(url);
     const resultJson = await result.json();
-
+    console.log('resultJson');
+    console.log(resultJson);
     const mp3File =
       resultJson.files.filter(fileItem => fileItem.format === 'VBR MP3')?.[0] ??
       null;
