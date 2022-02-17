@@ -66,7 +66,7 @@ There are many ways to make the app usefull for offile work. currently here i am
 
 **Screenshot**
 
-**Audio List Screen**
 ![Screenshot_20220217_164622](https://user-images.githubusercontent.com/71845533/154486579-a3f1f2c3-e237-422f-88cf-14b5090a9d4b.png)
-**Play Audio Screen**
+
+
 ![Screenshot_20220217_164551](https://user-images.githubusercontent.com/71845533/154486617-c6ea6afd-cb5a-4adf-bada-fdd37e7b96f1.png)
