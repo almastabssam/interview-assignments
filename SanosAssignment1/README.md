@@ -75,5 +75,6 @@ There are many ways to make the app usefull for offile work. currently here i am
 
 ![Simulator Screen Shot - iPhone 11 - 2022-02-17 at 18 42 51](https://user-images.githubusercontent.com/71845533/154493058-bedd4cbe-46b5-45ea-ba5e-235f45aba080.png)
 
-![Screenshot_20220217_164638](https://user-images.githubusercontent.com/71845533/154493998-5bbe263f-145e-471e-a21f-08f36484b449.png)
+
+![Simulator Screen Shot - iPhone 11 - 2022-02-17 at 18 48 38](https://user-images.githubusercontent.com/71845533/154494132-4af9544d-abf5-4a27-9961-b48177cef700.png)
 
