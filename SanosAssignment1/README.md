@@ -42,26 +42,27 @@ Best of luck
 
 **Soultion**
 
-i complete the assignment 
+I complete the assignment 
 
 - Visually list metadata of the files **Done**
 
-i made the Audio List screen to show the list of audio files and use the service to get from api and store the data to local storage for offline use.
+I made the Audio List screen to show the list of audio files and use the service to get the data from api and store the data to local storage for offline use.
 
 - show details for the files **Done**
 
-i made the next detail screen where we show detail of the selected item and play and pause the audioi file and cashe it running when app going to background or we move back to the main screen.
+I made the detail screen where we show detail of the selected item and play and pause the audio file and cache it when app going to background or we move back to the main screen.
 
 - play the audio for a selected file and resume from the last position upon App re-opening **Done**
 
-yes its done when we select one audio file and play it and go back or in background or simple pause the track. it resume where we pause it.
+Yes its done when we select one audio file and play it and go back or in background or simple pause the track. it resume where we pause it.
 
 - cache the fetched data **Done**
 
-its done and track play from where we pause it.
+Its done and track play from where we pause it.
 
 - work offline with cached data **Done**
-there are many ways to make the app usefull for offile work. currently here i am used the asyncstorage for offline feature.
+
+There are many ways to make the app usefull for offile work. currently here i am used the asyncstorage for offline feature.
 
 **Screenshot**
 
