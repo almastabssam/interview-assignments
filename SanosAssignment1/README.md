@@ -39,3 +39,42 @@ The assignment should take no more than 6 hours in total. Time is hard to find t
 If you have any questions, send us an email directly to: oscar.morillo@sanosgroup.co
 
 Best of luck
+
+**Soultion**
+
+I complete the assignment 
+
+- Visually list metadata of the files **Done**
+
+I made the Audio List screen to show the list of audio files and use the service to get the data from api and store the data to local storage for offline use.
+
+- show details for the files **Done**
+
+I made the detail screen where we show detail of the selected item and play and pause the audio file and cache it when app going to background or we move back to the main screen.
+
+- play the audio for a selected file and resume from the last position upon App re-opening **Done**
+
+Yes its done when we select one audio file and play it and go back or in background or simple pause the track. it resume where we pause it.
+
+- cache the fetched data **Done**
+
+Its done and track play from where we pause it.
+
+- work offline with cached data **Done**
+
+There are many ways to make the app usefull for offile work. currently here i am used the asyncstorage for offline feature.
+
+**Android Screenshot**
+
+![Screenshot_20220217_164622](https://user-images.githubusercontent.com/71845533/154486579-a3f1f2c3-e237-422f-88cf-14b5090a9d4b.png)
+
+
+![Screenshot_20220217_164551](https://user-images.githubusercontent.com/71845533/154486617-c6ea6afd-cb5a-4adf-bada-fdd37e7b96f1.png)
+
+**iOS Screenshot**
+
+![Simulator Screen Shot - iPhone 11 - 2022-02-17 at 18 42 51](https://user-images.githubusercontent.com/71845533/154493058-bedd4cbe-46b5-45ea-ba5e-235f45aba080.png)
+
+
+![Simulator Screen Shot - iPhone 11 - 2022-02-17 at 18 48 38](https://user-images.githubusercontent.com/71845533/154494132-4af9544d-abf5-4a27-9961-b48177cef700.png)
+
