@@ -64,9 +64,16 @@ Its done and track play from where we pause it.
 
 There are many ways to make the app usefull for offile work. currently here i am used the asyncstorage for offline feature.
 
-**Screenshot**
+**Android Screenshot**
 
 ![Screenshot_20220217_164622](https://user-images.githubusercontent.com/71845533/154486579-a3f1f2c3-e237-422f-88cf-14b5090a9d4b.png)
 
 
 ![Screenshot_20220217_164551](https://user-images.githubusercontent.com/71845533/154486617-c6ea6afd-cb5a-4adf-bada-fdd37e7b96f1.png)
+
+**iOS Screenshot**
+
+![Simulator Screen Shot - iPhone 11 - 2022-02-17 at 18 42 51](https://user-images.githubusercontent.com/71845533/154493058-bedd4cbe-46b5-45ea-ba5e-235f45aba080.png)
+
+![Screenshot_20220217_164638](https://user-images.githubusercontent.com/71845533/154493998-5bbe263f-145e-471e-a21f-08f36484b449.png)
+
