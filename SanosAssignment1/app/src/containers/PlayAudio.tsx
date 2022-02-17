@@ -21,6 +21,7 @@ import TrackPlayer, {
 } from 'react-native-track-player';
 
 import { MediaService } from '../../../js/MediaService';
+import FastImage from "react-native-fast-image";
 export interface Category {
     url: string;
     title: any;
@@ -133,7 +134,14 @@ const PlayAudio = ({route}) => {
                 {/*        <Text style={styles.queueButton}>Queue</Text>*/}
                 {/*    </TouchableWithoutFeedback>*/}
                 {/*</View>*/}
-                <Image style={styles.artwork} source={{uri: `${trackArtwork}`}} />
+                <FastImage
+                    style={styles.artwork}
+                    source={{
+                        uri: imageURL,
+                        priority: FastImage.priority.normal,
+                    }}
+                    resizeMode={FastImage.resizeMode.contain}
+                />
                 <Text style={styles.titleText}>{trackTitle}</Text>
                 <Text style={styles.artistText}>{trackArtist}</Text>
                 <Slider
@@ -201,7 +209,6 @@ const styles = StyleSheet.create({
         width: 240,
         height: 240,
         marginTop: 30,
-        backgroundColor: 'grey',
     },
     titleText: {
         fontSize: 18,
